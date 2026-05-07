@@ -1,0 +1,1404 @@
+{
+  "_AuthenticatedLayout-BJ8OgGXE.js": {
+    "file": "assets/AuthenticatedLayout-BJ8OgGXE.js",
+    "name": "AuthenticatedLayout",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Modal-e7oUAyfY.js": {
+    "file": "assets/Modal-e7oUAyfY.js",
+    "name": "Modal",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_PrimaryButton-DVm9fFvC.js": {
+    "file": "assets/PrimaryButton-DVm9fFvC.js",
+    "name": "PrimaryButton",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "_TextInput-HNWKlHA8.js": {
+    "file": "assets/TextInput-HNWKlHA8.js",
+    "name": "TextInput",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "__plugin-vue_export-helper-DlAUqK2U.js": {
+    "file": "assets/_plugin-vue_export-helper-DlAUqK2U.js",
+    "name": "_plugin-vue_export-helper"
+  },
+  "_transition--DXCpfbV.js": {
+    "file": "assets/transition--DXCpfbV.js",
+    "name": "transition",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_useActivityLog-CTyCP_7T.js": {
+    "file": "assets/useActivityLog-CTyCP_7T.js",
+    "name": "useActivityLog"
+  },
+  "_useDashboardNavigation-Ci3C8L_W.js": {
+    "file": "assets/useDashboardNavigation-Ci3C8L_W.js",
+    "name": "useDashboardNavigation",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/AdminDashboard.vue": {
+    "file": "assets/AdminDashboard-BrxOudsk.js",
+    "name": "AdminDashboard",
+    "src": "resources/js/Pages/AdminDashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AuthenticatedLayout-BJ8OgGXE.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/AdminDashboard-CUzUF9zw.css"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.vue": {
+    "file": "assets/ConfirmPassword-CUH61qMg.js",
+    "name": "ConfirmPassword",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_PrimaryButton-DVm9fFvC.js",
+      "_TextInput-HNWKlHA8.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.vue": {
+    "file": "assets/ForgotPassword-DXrMYNRY.js",
+    "name": "ForgotPassword",
+    "src": "resources/js/Pages/Auth/ForgotPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_PrimaryButton-DVm9fFvC.js",
+      "_TextInput-HNWKlHA8.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+    "file": "assets/Login-DA_edcVf.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Auth/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_PrimaryButton-DVm9fFvC.js",
+      "_TextInput-HNWKlHA8.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.vue": {
+    "file": "assets/Register-DBElqUsb.js",
+    "name": "Register",
+    "src": "resources/js/Pages/Auth/Register.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_PrimaryButton-DVm9fFvC.js",
+      "_TextInput-HNWKlHA8.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.vue": {
+    "file": "assets/ResetPassword-BCLemxcg.js",
+    "name": "ResetPassword",
+    "src": "resources/js/Pages/Auth/ResetPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_PrimaryButton-DVm9fFvC.js",
+      "_TextInput-HNWKlHA8.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.vue": {
+    "file": "assets/VerifyEmail-BKstLcW0.js",
+    "name": "VerifyEmail",
+    "src": "resources/js/Pages/Auth/VerifyEmail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_PrimaryButton-DVm9fFvC.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/BillSettings/Index.vue": {
+    "file": "assets/Index-0glKcxPA.js",
+    "name": "Index",
+    "src": "resources/js/Pages/BillSettings/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Brands/Components/BrandCreateModel.vue": {
+    "file": "assets/BrandCreateModel-DTDwQJ1R.js",
+    "name": "BrandCreateModel",
+    "src": "resources/js/Pages/Brands/Components/BrandCreateModel.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Brands/Components/BrandDeleteModel.vue": {
+    "file": "assets/BrandDeleteModel-4MHshAkk.js",
+    "name": "BrandDeleteModel",
+    "src": "resources/js/Pages/Brands/Components/BrandDeleteModel.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Brands/Components/BrandUpdateModel.vue": {
+    "file": "assets/BrandUpdateModel-rV66fmUr.js",
+    "name": "BrandUpdateModel",
+    "src": "resources/js/Pages/Brands/Components/BrandUpdateModel.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Brands/Index.vue": {
+    "file": "assets/Index-CeciBT05.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Brands/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Brands/Components/BrandCreateModel.vue",
+      "resources/js/Pages/Brands/Components/BrandUpdateModel.vue",
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ],
+    "css": [
+      "assets/Index-tn0RQdqM.css"
+    ]
+  },
+  "resources/js/Pages/Categories/Components/CategoryCreateModal.vue": {
+    "file": "assets/CategoryCreateModal-D2T-q5eP.js",
+    "name": "CategoryCreateModal",
+    "src": "resources/js/Pages/Categories/Components/CategoryCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Categories/Components/CategoryDeleteModal.vue": {
+    "file": "assets/CategoryDeleteModal-g_iYjIV-.js",
+    "name": "CategoryDeleteModal",
+    "src": "resources/js/Pages/Categories/Components/CategoryDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Categories/Components/CategoryEditModal.vue": {
+    "file": "assets/CategoryEditModal-B1-f_yFR.js",
+    "name": "CategoryEditModal",
+    "src": "resources/js/Pages/Categories/Components/CategoryEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Categories/Index.vue": {
+    "file": "assets/Index-DjBtO2lg.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Categories/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Categories/Components/CategoryCreateModal.vue",
+      "resources/js/Pages/Categories/Components/CategoryEditModal.vue",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Customers/Components/CustomerCreateModal.vue": {
+    "file": "assets/CustomerCreateModal-CIjLTZ6M.js",
+    "name": "CustomerCreateModal",
+    "src": "resources/js/Pages/Customers/Components/CustomerCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Customers/Components/CustomerDeleteModal.vue": {
+    "file": "assets/CustomerDeleteModal-CKjsADZd.js",
+    "name": "CustomerDeleteModal",
+    "src": "resources/js/Pages/Customers/Components/CustomerDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Customers/Components/CustomerEditModal.vue": {
+    "file": "assets/CustomerEditModal-DnQ41aTp.js",
+    "name": "CustomerEditModal",
+    "src": "resources/js/Pages/Customers/Components/CustomerEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Customers/Index.vue": {
+    "file": "assets/Index-B4t0zqMh.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Customers/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Customers/Components/CustomerCreateModal.vue",
+      "resources/js/Pages/Customers/Components/CustomerEditModal.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.vue": {
+    "file": "assets/Dashboard-37paVIEL.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Dashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/Dashboard-yvFAmmPW.css"
+    ]
+  },
+  "resources/js/Pages/Discounts/Components/DiscountCreateModal.vue": {
+    "file": "assets/DiscountCreateModal-Eb7-9HSK.js",
+    "name": "DiscountCreateModal",
+    "src": "resources/js/Pages/Discounts/Components/DiscountCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Discounts/Components/DiscountDeleteModal.vue": {
+    "file": "assets/DiscountDeleteModal-wmfcQSda.js",
+    "name": "DiscountDeleteModal",
+    "src": "resources/js/Pages/Discounts/Components/DiscountDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Discounts/Components/DiscountEditModal.vue": {
+    "file": "assets/DiscountEditModal-CZW0oQT2.js",
+    "name": "DiscountEditModal",
+    "src": "resources/js/Pages/Discounts/Components/DiscountEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Discounts/Index.vue": {
+    "file": "assets/Index-D0RDVf1t.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Discounts/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Discounts/Components/DiscountCreateModal.vue",
+      "resources/js/Pages/Discounts/Components/DiscountEditModal.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNoteReturns/Index.vue": {
+    "file": "assets/Index-CZYt6WIT.js",
+    "name": "Index",
+    "src": "resources/js/Pages/GoodsReceivedNoteReturns/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnCreateModal.vue",
+      "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnViewModal.vue",
+      "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnDeleteModal.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_Modal-e7oUAyfY.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnCreateModal.vue": {
+    "file": "assets/GoodsReceivedNoteReturnCreateModal-EJ2au1kV.js",
+    "name": "GoodsReceivedNoteReturnCreateModal",
+    "src": "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnDeleteModal.vue": {
+    "file": "assets/GoodsReceivedNoteReturnDeleteModal-CaTk749j.js",
+    "name": "GoodsReceivedNoteReturnDeleteModal",
+    "src": "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnEditModal.vue": {
+    "file": "assets/GoodsReceivedNoteReturnEditModal-Cn1o45D0.js",
+    "name": "GoodsReceivedNoteReturnEditModal",
+    "src": "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnViewModal.vue": {
+    "file": "assets/GoodsReceivedNoteReturnViewModal-Dy7glMj-.js",
+    "name": "GoodsReceivedNoteReturnViewModal",
+    "src": "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnViewModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Modal-e7oUAyfY.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteCreateModal.vue": {
+    "file": "assets/GoodsReceivedNoteCreateModal-Co8_793K.js",
+    "name": "GoodsReceivedNoteCreateModal",
+    "src": "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js",
+      "_useActivityLog-CTyCP_7T.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteDeleteModal.vue": {
+    "file": "assets/GoodsReceivedNoteDeleteModal-C-KDED7C.js",
+    "name": "GoodsReceivedNoteDeleteModal",
+    "src": "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteEditModal.vue": {
+    "file": "assets/GoodsReceivedNoteEditModal-BCr_Ysjq.js",
+    "name": "GoodsReceivedNoteEditModal",
+    "src": "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteViewModel.vue": {
+    "file": "assets/GoodsReceivedNoteViewModel-yvBtNP8L.js",
+    "name": "GoodsReceivedNoteViewModel",
+    "src": "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteViewModel.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNotes/Create.vue": {
+    "file": "assets/Create-DofuMBz9.js",
+    "name": "Create",
+    "src": "resources/js/Pages/GoodsReceivedNotes/Create.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/Index-tn0RQdqM.css"
+    ]
+  },
+  "resources/js/Pages/GoodsReceivedNotes/Index.vue": {
+    "file": "assets/Index-CSupkuK3.js",
+    "name": "Index",
+    "src": "resources/js/Pages/GoodsReceivedNotes/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteCreateModal.vue",
+      "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteViewModel.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "_Modal-e7oUAyfY.js"
+    ],
+    "css": [
+      "assets/Index-tn0RQdqM.css"
+    ]
+  },
+  "resources/js/Pages/ImportExport.vue": {
+    "file": "assets/ImportExport-C6PRFF3Q.js",
+    "name": "ImportExport",
+    "src": "resources/js/Pages/ImportExport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitCreateModal.vue": {
+    "file": "assets/MeasurementUnitCreateModal-BbzsUFN6.js",
+    "name": "MeasurementUnitCreateModal",
+    "src": "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitDeleteModal.vue": {
+    "file": "assets/MeasurementUnitDeleteModal-DUyPev5j.js",
+    "name": "MeasurementUnitDeleteModal",
+    "src": "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitEditModal.vue": {
+    "file": "assets/MeasurementUnitEditModal-Ls0pm_K1.js",
+    "name": "MeasurementUnitEditModal",
+    "src": "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/MeasurementUnits/Index.vue": {
+    "file": "assets/Index-DHwpAhjb.js",
+    "name": "Index",
+    "src": "resources/js/Pages/MeasurementUnits/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitCreateModal.vue",
+      "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitEditModal.vue",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Products/Components/ProductCreateModal.vue": {
+    "file": "assets/ProductCreateModal-CrAorPYM.js",
+    "name": "ProductCreateModal",
+    "src": "resources/js/Pages/Products/Components/ProductCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_Modal-e7oUAyfY.js",
+      "resources/js/Pages/Products/Components/QuickAddModal.vue",
+      "resources/js/Pages/Products/Components/SearchableSelect.vue",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Products/Components/ProductDeleteModal.vue": {
+    "file": "assets/ProductDeleteModal-Bt2WBbXW.js",
+    "name": "ProductDeleteModal",
+    "src": "resources/js/Pages/Products/Components/ProductDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js"
+    ]
+  },
+  "resources/js/Pages/Products/Components/ProductDuplicateModal.vue": {
+    "file": "assets/ProductDuplicateModal-DliIbmS8.js",
+    "name": "ProductDuplicateModal",
+    "src": "resources/js/Pages/Products/Components/ProductDuplicateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js",
+      "resources/js/Pages/Products/Components/QuickAddModal.vue"
+    ]
+  },
+  "resources/js/Pages/Products/Components/ProductEditModal.vue": {
+    "file": "assets/ProductEditModal-CAXoRCJF.js",
+    "name": "ProductEditModal",
+    "src": "resources/js/Pages/Products/Components/ProductEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js",
+      "resources/js/Pages/Products/Components/SearchableSelect.vue",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Products/Components/ProductViewModal.vue": {
+    "file": "assets/ProductViewModal-D9csOzdQ.js",
+    "name": "ProductViewModal",
+    "src": "resources/js/Pages/Products/Components/ProductViewModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js"
+    ]
+  },
+  "resources/js/Pages/Products/Components/QuickAddModal.vue": {
+    "file": "assets/QuickAddModal-DEXl2WUh.js",
+    "name": "QuickAddModal",
+    "src": "resources/js/Pages/Products/Components/QuickAddModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js"
+    ]
+  },
+  "resources/js/Pages/Products/Components/SearchableSelect.vue": {
+    "file": "assets/SearchableSelect-D4wstIbA.js",
+    "name": "SearchableSelect",
+    "src": "resources/js/Pages/Products/Components/SearchableSelect.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/SearchableSelect-Dj34Wlrw.css"
+    ]
+  },
+  "resources/js/Pages/Products/Index.vue": {
+    "file": "assets/Index-CkdTZEOb.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Products/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "resources/js/Pages/Products/Components/ProductCreateModal.vue",
+      "resources/js/Pages/Products/Components/ProductViewModal.vue",
+      "resources/js/Pages/Products/Components/ProductEditModal.vue",
+      "resources/js/Pages/Products/Components/ProductDuplicateModal.vue",
+      "_Modal-e7oUAyfY.js",
+      "resources/js/Pages/Products/Components/QuickAddModal.vue",
+      "resources/js/Pages/Products/Components/SearchableSelect.vue",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Edit.vue": {
+    "file": "assets/Edit-sfbrjVv_.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/Profile/Edit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.vue": {
+    "file": "assets/DeleteUserForm-N3HK3aPH.js",
+    "name": "DeleteUserForm",
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "_TextInput-HNWKlHA8.js",
+      "_Modal-e7oUAyfY.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue": {
+    "file": "assets/UpdatePasswordForm-0_o1viCQ.js",
+    "name": "UpdatePasswordForm",
+    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue": {
+    "file": "assets/UpdateProfileInformationForm-DZZwAiA0.js",
+    "name": "UpdateProfileInformationForm",
+    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseCreateModal.vue": {
+    "file": "assets/PurchaseExpenseCreateModal-DzeKIvFb.js",
+    "name": "PurchaseExpenseCreateModal",
+    "src": "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseDeleteModal.vue": {
+    "file": "assets/PurchaseExpenseDeleteModal-ByCfcrRf.js",
+    "name": "PurchaseExpenseDeleteModal",
+    "src": "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseViewModal.vue": {
+    "file": "assets/PurchaseExpenseViewModal-otydTwC5.js",
+    "name": "PurchaseExpenseViewModal",
+    "src": "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseViewModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/PurchaseExpenses/Index.vue": {
+    "file": "assets/Index-G6gMyPEI.js",
+    "name": "Index",
+    "src": "resources/js/Pages/PurchaseExpenses/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseCreateModal.vue",
+      "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseViewModal.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Quotations/Edit.vue": {
+    "file": "assets/Edit-D3X9TeZm.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/Quotations/Edit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Quotations/Index.vue": {
+    "file": "assets/Index-GsHcmUTf.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Quotations/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_Modal-e7oUAyfY.js",
+      "resources/js/Pages/Customers/Components/CustomerCreateModal.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_transition--DXCpfbV.js"
+    ],
+    "css": [
+      "assets/Index-CYIxfMEu.css"
+    ]
+  },
+  "resources/js/Pages/Reports/ActivityLogReport.vue": {
+    "file": "assets/ActivityLogReport-1ltYtyFC.js",
+    "name": "ActivityLogReport",
+    "src": "resources/js/Pages/Reports/ActivityLogReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Reports/CashDrawerReport.vue": {
+    "file": "assets/CashDrawerReport-BQ9dDcEt.js",
+    "name": "CashDrawerReport",
+    "src": "resources/js/Pages/Reports/CashDrawerReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Reports/ExpensesReport.vue": {
+    "file": "assets/ExpensesReport-Cn3s0qtT.js",
+    "name": "ExpensesReport",
+    "src": "resources/js/Pages/Reports/ExpensesReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Reports/GoodReceivedNoteReport.vue": {
+    "file": "assets/GoodReceivedNoteReport-BeaM_a0p.js",
+    "name": "GoodReceivedNoteReport",
+    "src": "resources/js/Pages/Reports/GoodReceivedNoteReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AuthenticatedLayout-BJ8OgGXE.js"
+    ]
+  },
+  "resources/js/Pages/Reports/GoodsReceivedNoteReturnReport.vue": {
+    "file": "assets/GoodsReceivedNoteReturnReport-BLelKu0H.js",
+    "name": "GoodsReceivedNoteReturnReport",
+    "src": "resources/js/Pages/Reports/GoodsReceivedNoteReturnReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AuthenticatedLayout-BJ8OgGXE.js"
+    ]
+  },
+  "resources/js/Pages/Reports/Index.vue": {
+    "file": "assets/Index-Cn3MrA9y.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Reports/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AuthenticatedLayout-BJ8OgGXE.js"
+    ]
+  },
+  "resources/js/Pages/Reports/LowStockReport.vue": {
+    "file": "assets/LowStockReport-DKzS1ymJ.js",
+    "name": "LowStockReport",
+    "src": "resources/js/Pages/Reports/LowStockReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AuthenticatedLayout-BJ8OgGXE.js",
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js"
+    ]
+  },
+  "resources/js/Pages/Reports/LowStockShopReport.vue": {
+    "file": "assets/LowStockShopReport-DRXGKLAL.js",
+    "name": "LowStockShopReport",
+    "src": "resources/js/Pages/Reports/LowStockShopReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Reports/LowStockStoreReport.vue": {
+    "file": "assets/LowStockStoreReport-BenYTVl3.js",
+    "name": "LowStockStoreReport",
+    "src": "resources/js/Pages/Reports/LowStockStoreReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Reports/ProductMovementReport.vue": {
+    "file": "assets/ProductMovementReport-kHb-oxix.js",
+    "name": "ProductMovementReport",
+    "src": "resources/js/Pages/Reports/ProductMovementReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Reports/ProductMovementSalesOptimization.vue": {
+    "file": "assets/ProductMovementSalesOptimization-C5iMoxK7.js",
+    "name": "ProductMovementSalesOptimization",
+    "src": "resources/js/Pages/Reports/ProductMovementSalesOptimization.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/Index-tn0RQdqM.css"
+    ]
+  },
+  "resources/js/Pages/Reports/ProductSalesReport.vue": {
+    "file": "assets/ProductSalesReport-BCaGvCWX.js",
+    "name": "ProductSalesReport",
+    "src": "resources/js/Pages/Reports/ProductSalesReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AuthenticatedLayout-BJ8OgGXE.js"
+    ]
+  },
+  "resources/js/Pages/Reports/SalesIncomeReport.vue": {
+    "file": "assets/SalesIncomeReport-CAgXz5pM.js",
+    "name": "SalesIncomeReport",
+    "src": "resources/js/Pages/Reports/SalesIncomeReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Reports/StockReport.vue": {
+    "file": "assets/StockReport-CMORuFt3.js",
+    "name": "StockReport",
+    "src": "resources/js/Pages/Reports/StockReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Reports/SyncReport.vue": {
+    "file": "assets/SyncReport-BgyMtX9N.js",
+    "name": "SyncReport",
+    "src": "resources/js/Pages/Reports/SyncReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Returns/Components/CreateReturnTab.vue": {
+    "file": "assets/CreateReturnTab--DdgQUC0.js",
+    "name": "CreateReturnTab",
+    "src": "resources/js/Pages/Returns/Components/CreateReturnTab.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js",
+      "resources/js/Pages/Returns/Components/SalesProductsTable.vue"
+    ]
+  },
+  "resources/js/Pages/Returns/Components/ReturnCreateModal.vue": {
+    "file": "assets/ReturnCreateModal-Cc6cUmBC.js",
+    "name": "ReturnCreateModal",
+    "src": "resources/js/Pages/Returns/Components/ReturnCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/Index-tn0RQdqM.css"
+    ]
+  },
+  "resources/js/Pages/Returns/Components/ReturnDeleteModal.vue": {
+    "file": "assets/ReturnDeleteModal-CU7UngS_.js",
+    "name": "ReturnDeleteModal",
+    "src": "resources/js/Pages/Returns/Components/ReturnDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Returns/Components/ReturnDetailsModal.vue": {
+    "file": "assets/ReturnDetailsModal-jJEYtMmt.js",
+    "name": "ReturnDetailsModal",
+    "src": "resources/js/Pages/Returns/Components/ReturnDetailsModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Returns/Components/ReturnEditModal.vue": {
+    "file": "assets/ReturnEditModal-D5PDytkv.js",
+    "name": "ReturnEditModal",
+    "src": "resources/js/Pages/Returns/Components/ReturnEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Returns/Components/ReturnFilters.vue": {
+    "file": "assets/ReturnFilters-BSNKg70Q.js",
+    "name": "ReturnFilters",
+    "src": "resources/js/Pages/Returns/Components/ReturnFilters.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Returns/Components/ReturnsListTable.vue": {
+    "file": "assets/ReturnsListTable-DxTFVdjF.js",
+    "name": "ReturnsListTable",
+    "src": "resources/js/Pages/Returns/Components/ReturnsListTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Returns/Components/SalesProductsTable.vue": {
+    "file": "assets/SalesProductsTable-BltCXRsG.js",
+    "name": "SalesProductsTable",
+    "src": "resources/js/Pages/Returns/Components/SalesProductsTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Returns/Index.vue": {
+    "file": "assets/Index-DJcsGLBy.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Returns/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Returns/Components/ReturnDetailsModal.vue",
+      "resources/js/Pages/Returns/Components/ReturnCreateModal.vue",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_transition--DXCpfbV.js",
+      "_Modal-e7oUAyfY.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/Sales/AllSales.vue": {
+    "file": "assets/AllSales-BJczjJ4w.js",
+    "name": "AllSales",
+    "src": "resources/js/Pages/Sales/AllSales.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Modal-e7oUAyfY.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Sales/Index.vue": {
+    "file": "assets/Index-DuzySOZ0.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Sales/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_Modal-e7oUAyfY.js",
+      "resources/js/Pages/Customers/Components/CustomerCreateModal.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_transition--DXCpfbV.js"
+    ],
+    "css": [
+      "assets/Index-Bc4Atikr.css"
+    ]
+  },
+  "resources/js/Pages/Settings/AppSetting.vue": {
+    "file": "assets/AppSetting-BNXhr9DJ.js",
+    "name": "AppSetting",
+    "src": "resources/js/Pages/Settings/AppSetting.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Settings/BackupSetting.vue": {
+    "file": "assets/BackupSetting-BDB660Jk.js",
+    "name": "BackupSetting",
+    "src": "resources/js/Pages/Settings/BackupSetting.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Settings/CompanyInformation.vue": {
+    "file": "assets/CompanyInformation-BBcByNmG.js",
+    "name": "CompanyInformation",
+    "src": "resources/js/Pages/Settings/CompanyInformation.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Settings/SmtpSetting.vue": {
+    "file": "assets/SmtpSetting-DVRl3jnQ.js",
+    "name": "SmtpSetting",
+    "src": "resources/js/Pages/Settings/SmtpSetting.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js"
+    ]
+  },
+  "resources/js/Pages/Settings/SyncSetting.vue": {
+    "file": "assets/SyncSetting-CBKaDvDG.js",
+    "name": "SyncSetting",
+    "src": "resources/js/Pages/Settings/SyncSetting.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useDashboardNavigation-Ci3C8L_W.js"
+    ]
+  },
+  "resources/js/Pages/Suppliers/Components/SupplierCreateModal.vue": {
+    "file": "assets/SupplierCreateModal-DBGZd8ji.js",
+    "name": "SupplierCreateModal",
+    "src": "resources/js/Pages/Suppliers/Components/SupplierCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_Modal-e7oUAyfY.js"
+    ]
+  },
+  "resources/js/Pages/Suppliers/Components/SupplierDeleteModal.vue": {
+    "file": "assets/SupplierDeleteModal-COhXr9_f.js",
+    "name": "SupplierDeleteModal",
+    "src": "resources/js/Pages/Suppliers/Components/SupplierDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Suppliers/Components/SupplierEditModal.vue": {
+    "file": "assets/SupplierEditModal-Bu1pdUhi.js",
+    "name": "SupplierEditModal",
+    "src": "resources/js/Pages/Suppliers/Components/SupplierEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Suppliers/Index.vue": {
+    "file": "assets/Index-i-p7e7C8.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Suppliers/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Suppliers/Components/SupplierCreateModal.vue",
+      "resources/js/Pages/Suppliers/Components/SupplierEditModal.vue",
+      "_useActivityLog-CTyCP_7T.js",
+      "_Modal-e7oUAyfY.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Taxes/Components/TaxCreateModal.vue": {
+    "file": "assets/TaxCreateModal-irl3JRrS.js",
+    "name": "TaxCreateModal",
+    "src": "resources/js/Pages/Taxes/Components/TaxCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Taxes/Components/TaxDeleteModal.vue": {
+    "file": "assets/TaxDeleteModal-D6uWpcgH.js",
+    "name": "TaxDeleteModal",
+    "src": "resources/js/Pages/Taxes/Components/TaxDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Taxes/Components/TaxEditModal.vue": {
+    "file": "assets/TaxEditModal-C_7D_kFJ.js",
+    "name": "TaxEditModal",
+    "src": "resources/js/Pages/Taxes/Components/TaxEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Taxes/Index.vue": {
+    "file": "assets/Index-CPxzGE2Q.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Taxes/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Taxes/Components/TaxCreateModal.vue",
+      "resources/js/Pages/Taxes/Components/TaxEditModal.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Types/Components/TypeCreateModal.vue": {
+    "file": "assets/TypeCreateModal-DzsBrrWJ.js",
+    "name": "TypeCreateModal",
+    "src": "resources/js/Pages/Types/Components/TypeCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Types/Components/TypeDeleteModal.vue": {
+    "file": "assets/TypeDeleteModal-hibbLMAY.js",
+    "name": "TypeDeleteModal",
+    "src": "resources/js/Pages/Types/Components/TypeDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Types/Components/TypeEditModal.vue": {
+    "file": "assets/TypeEditModal-Dmv1-OQ_.js",
+    "name": "TypeEditModal",
+    "src": "resources/js/Pages/Types/Components/TypeEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Types/Index.vue": {
+    "file": "assets/Index-CU20IAYk.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Types/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Types/Components/TypeCreateModal.vue",
+      "resources/js/Pages/Types/Components/TypeEditModal.vue",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/UserDashboard.vue": {
+    "file": "assets/UserDashboard-BwyhFw_m.js",
+    "name": "UserDashboard",
+    "src": "resources/js/Pages/UserDashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AuthenticatedLayout-BJ8OgGXE.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/UserDashboard-CJVw9QF4.css"
+    ]
+  },
+  "resources/js/Pages/Users/Components/UserCreateModal.vue": {
+    "file": "assets/UserCreateModal-Bh8fqt5l.js",
+    "name": "UserCreateModal",
+    "src": "resources/js/Pages/Users/Components/UserCreateModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Users/Components/UserDeleteModal.vue": {
+    "file": "assets/UserDeleteModal-2FUeO3Hr.js",
+    "name": "UserDeleteModal",
+    "src": "resources/js/Pages/Users/Components/UserDeleteModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Users/Components/UserEditModal.vue": {
+    "file": "assets/UserEditModal-BwsSlymN.js",
+    "name": "UserEditModal",
+    "src": "resources/js/Pages/Users/Components/UserEditModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Users/Index.vue": {
+    "file": "assets/Index-jGcalTmm.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Users/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Users/Components/UserCreateModal.vue",
+      "resources/js/Pages/Users/Components/UserEditModal.vue",
+      "resources/js/Pages/Users/Components/UserDeleteModal.vue",
+      "_useDashboardNavigation-Ci3C8L_W.js",
+      "_useActivityLog-CTyCP_7T.js",
+      "_transition--DXCpfbV.js"
+    ]
+  },
+  "resources/js/Pages/Welcome.vue": {
+    "file": "assets/Welcome-DAPoeOaF.js",
+    "name": "Welcome",
+    "src": "resources/js/Pages/Welcome.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app--kvDeszr.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/AdminDashboard.vue",
+      "resources/js/Pages/Auth/ConfirmPassword.vue",
+      "resources/js/Pages/Auth/ForgotPassword.vue",
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/Auth/Register.vue",
+      "resources/js/Pages/Auth/ResetPassword.vue",
+      "resources/js/Pages/Auth/VerifyEmail.vue",
+      "resources/js/Pages/BillSettings/Index.vue",
+      "resources/js/Pages/Brands/Components/BrandCreateModel.vue",
+      "resources/js/Pages/Brands/Components/BrandDeleteModel.vue",
+      "resources/js/Pages/Brands/Components/BrandUpdateModel.vue",
+      "resources/js/Pages/Brands/Index.vue",
+      "resources/js/Pages/Categories/Components/CategoryCreateModal.vue",
+      "resources/js/Pages/Categories/Components/CategoryDeleteModal.vue",
+      "resources/js/Pages/Categories/Components/CategoryEditModal.vue",
+      "resources/js/Pages/Categories/Index.vue",
+      "resources/js/Pages/Customers/Components/CustomerCreateModal.vue",
+      "resources/js/Pages/Customers/Components/CustomerDeleteModal.vue",
+      "resources/js/Pages/Customers/Components/CustomerEditModal.vue",
+      "resources/js/Pages/Customers/Index.vue",
+      "resources/js/Pages/Dashboard.vue",
+      "resources/js/Pages/Discounts/Components/DiscountCreateModal.vue",
+      "resources/js/Pages/Discounts/Components/DiscountDeleteModal.vue",
+      "resources/js/Pages/Discounts/Components/DiscountEditModal.vue",
+      "resources/js/Pages/Discounts/Index.vue",
+      "resources/js/Pages/GoodsReceivedNoteReturns/Index.vue",
+      "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnCreateModal.vue",
+      "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnDeleteModal.vue",
+      "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnEditModal.vue",
+      "resources/js/Pages/GoodsReceivedNoteReturns/components/GoodsReceivedNoteReturnViewModal.vue",
+      "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteCreateModal.vue",
+      "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteDeleteModal.vue",
+      "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteEditModal.vue",
+      "resources/js/Pages/GoodsReceivedNotes/Components/GoodsReceivedNoteViewModel.vue",
+      "resources/js/Pages/GoodsReceivedNotes/Create.vue",
+      "resources/js/Pages/GoodsReceivedNotes/Index.vue",
+      "resources/js/Pages/ImportExport.vue",
+      "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitCreateModal.vue",
+      "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitDeleteModal.vue",
+      "resources/js/Pages/MeasurementUnits/Components/MeasurementUnitEditModal.vue",
+      "resources/js/Pages/MeasurementUnits/Index.vue",
+      "resources/js/Pages/Products/Components/ProductCreateModal.vue",
+      "resources/js/Pages/Products/Components/ProductDeleteModal.vue",
+      "resources/js/Pages/Products/Components/ProductDuplicateModal.vue",
+      "resources/js/Pages/Products/Components/ProductEditModal.vue",
+      "resources/js/Pages/Products/Components/ProductViewModal.vue",
+      "resources/js/Pages/Products/Components/QuickAddModal.vue",
+      "resources/js/Pages/Products/Components/SearchableSelect.vue",
+      "resources/js/Pages/Products/Index.vue",
+      "resources/js/Pages/Profile/Edit.vue",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+      "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseCreateModal.vue",
+      "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseDeleteModal.vue",
+      "resources/js/Pages/PurchaseExpenses/Components/PurchaseExpenseViewModal.vue",
+      "resources/js/Pages/PurchaseExpenses/Index.vue",
+      "resources/js/Pages/Quotations/Edit.vue",
+      "resources/js/Pages/Quotations/Index.vue",
+      "resources/js/Pages/Reports/ActivityLogReport.vue",
+      "resources/js/Pages/Reports/CashDrawerReport.vue",
+      "resources/js/Pages/Reports/ExpensesReport.vue",
+      "resources/js/Pages/Reports/GoodReceivedNoteReport.vue",
+      "resources/js/Pages/Reports/GoodsReceivedNoteReturnReport.vue",
+      "resources/js/Pages/Reports/Index.vue",
+      "resources/js/Pages/Reports/LowStockReport.vue",
+      "resources/js/Pages/Reports/LowStockShopReport.vue",
+      "resources/js/Pages/Reports/LowStockStoreReport.vue",
+      "resources/js/Pages/Reports/ProductMovementReport.vue",
+      "resources/js/Pages/Reports/ProductMovementSalesOptimization.vue",
+      "resources/js/Pages/Reports/ProductSalesReport.vue",
+      "resources/js/Pages/Reports/SalesIncomeReport.vue",
+      "resources/js/Pages/Reports/StockReport.vue",
+      "resources/js/Pages/Reports/SyncReport.vue",
+      "resources/js/Pages/Returns/Components/CreateReturnTab.vue",
+      "resources/js/Pages/Returns/Components/ReturnCreateModal.vue",
+      "resources/js/Pages/Returns/Components/ReturnDeleteModal.vue",
+      "resources/js/Pages/Returns/Components/ReturnDetailsModal.vue",
+      "resources/js/Pages/Returns/Components/ReturnEditModal.vue",
+      "resources/js/Pages/Returns/Components/ReturnFilters.vue",
+      "resources/js/Pages/Returns/Components/ReturnsListTable.vue",
+      "resources/js/Pages/Returns/Components/SalesProductsTable.vue",
+      "resources/js/Pages/Returns/Index.vue",
+      "resources/js/Pages/Sales/AllSales.vue",
+      "resources/js/Pages/Sales/Index.vue",
+      "resources/js/Pages/Settings/AppSetting.vue",
+      "resources/js/Pages/Settings/BackupSetting.vue",
+      "resources/js/Pages/Settings/CompanyInformation.vue",
+      "resources/js/Pages/Settings/SmtpSetting.vue",
+      "resources/js/Pages/Settings/SyncSetting.vue",
+      "resources/js/Pages/Suppliers/Components/SupplierCreateModal.vue",
+      "resources/js/Pages/Suppliers/Components/SupplierDeleteModal.vue",
+      "resources/js/Pages/Suppliers/Components/SupplierEditModal.vue",
+      "resources/js/Pages/Suppliers/Index.vue",
+      "resources/js/Pages/Taxes/Components/TaxCreateModal.vue",
+      "resources/js/Pages/Taxes/Components/TaxDeleteModal.vue",
+      "resources/js/Pages/Taxes/Components/TaxEditModal.vue",
+      "resources/js/Pages/Taxes/Index.vue",
+      "resources/js/Pages/Types/Components/TypeCreateModal.vue",
+      "resources/js/Pages/Types/Components/TypeDeleteModal.vue",
+      "resources/js/Pages/Types/Components/TypeEditModal.vue",
+      "resources/js/Pages/Types/Index.vue",
+      "resources/js/Pages/UserDashboard.vue",
+      "resources/js/Pages/Users/Components/UserCreateModal.vue",
+      "resources/js/Pages/Users/Components/UserDeleteModal.vue",
+      "resources/js/Pages/Users/Components/UserEditModal.vue",
+      "resources/js/Pages/Users/Index.vue",
+      "resources/js/Pages/Welcome.vue"
+    ],
+    "css": [
+      "assets/app-BHIRk4VQ.css"
+    ]
+  }
+}
